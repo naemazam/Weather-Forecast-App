@@ -7,7 +7,7 @@
 }
 
 body{
-    background:url('https://github.com/naemazam/Weather-website-live/blob/main/img/hongyehdong.jpg');
+    background:url('./img/hongyehdong.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
